@@ -6,6 +6,7 @@ import './Footer.css';
 const Footer = () => (
   <div className="app__footer section__padding">
     <FooterOverlay />
+    test
     <Newsletter />
   </div>
 );
